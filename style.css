@@ -1,0 +1,31 @@
+body{
+    background: url(https://www.pixelstalk.net/wp-content/uploads/images6/Pokemon-Wallpaper-4K-HD-Free-download.jpg);
+}
+
+form{
+    display: flex;
+    width: 300px;
+    margin: 20px auto;
+    gap: 10px;
+}
+
+input, button{
+    width: 300px;
+    padding: 10px;
+}
+
+.poke-card{
+    position: relative;
+    height: fit-content;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 300px;
+    border-radius: 1rem;
+    color: black;
+    text-align: center;
+    padding: 10px;
+    margin: 0 auto;
+    background-color: rgb(249, 181, 193);
+    border: 1px solid black;
+
+}
+
